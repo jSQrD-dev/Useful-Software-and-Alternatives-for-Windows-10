@@ -8,8 +8,6 @@ Taken word for word from his Readme.
 ---
 ## Security
 
----
-
 Some Programs for Security. (I personally use TinyWall with Windows Defender, but I added some trusted Antivirus vendors as well)
 
 ---
@@ -35,8 +33,6 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 ---
 
 ## Utilities
-
----
 
 ### 	Browsers
 
@@ -178,8 +174,6 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 ## Audio / Video
 
----
-
 ### Audio
 
 ---
@@ -219,8 +213,6 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 ---
 
 ## Windows Feature Replacements and Additions
-
----
 
 - ***FREE*** [QuickLook](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s) (Enables a very quick preview of file contents by pressing the Spacebar.)
 
