@@ -1,10 +1,10 @@
 # Useful Software and Alternatives for Windows 10
----
 Just Like TheChiefMeat's Software List
 
 "If you wish for a program to be added to the below list, please open an issue with the name of the program as the title, with a link to the website / github page of the program in question. If any of the links are dead, please open and issue and provide any up-to-date links that you can provide."
 
 Taken word for word from his Readme.
+
 ---
 ## Security
 
