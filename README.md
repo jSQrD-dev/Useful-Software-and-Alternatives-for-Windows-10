@@ -186,6 +186,8 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 - ***FREE*** [Audacity](https://www.audacityteam.org/) (Free, open source, cross-platform audio software)
 
+- ***FREE*** [MuseScore](https://musescore.org/en/download) 
+
 ---
 
 ### Video
@@ -259,6 +261,10 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
 - [Land of Dev](https://landof.dev/awesome/) 
+
+- [LeetCode](https://leetcode.com/explore/learn/)
+
+- [HackerRank](https://www.hackerrank.com/)
 
 ---
 
