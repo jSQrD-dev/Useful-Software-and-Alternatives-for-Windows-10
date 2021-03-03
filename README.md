@@ -148,7 +148,7 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 - ***FREE*** [Rainmeter](https://www.rainmeter.net/) (desktop customization tool)
 
-- ***PAID*** [Wallpaper Engine](https://www.wallpaperengine.io/en) Animated Wallpapers on Windows
+- ***PAID*** [Wallpaper Engine](https://www.wallpaperengine.io/en) (Animated Wallpapers on Windows)
 
   - ( **ALT** ) ***FREE*** [Lively Wallpaper](https://rocksdanister.github.io/lively/)
 
@@ -257,6 +257,8 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 - [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+
+- [Land of Dev](https://landof.dev/awesome/) 
 
 ---
 
