@@ -118,7 +118,7 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 - ***FREE*** [Git](https://git-scm.com/download/win) (a lightweight, native set of tools that bring the full feature set of the [Git SCM](https://git-scm.com/) to Windows) 
 
-  - [MSYS2](https://www.msys2.org/) (A more robust version of Git for Windows that can also run it natively)
+  - ( **ALT** ) ***FREE*** [MSYS2](https://www.msys2.org/) (A more robust version of Git for Windows that can also run it natively)
 
 - ***FREE*** [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) (a modern, fast, efficient, powerful, and productive terminal application)
 
