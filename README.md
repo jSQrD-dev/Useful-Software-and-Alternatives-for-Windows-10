@@ -15,12 +15,13 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 ---
 
 - **_FREE_** [TinyWall](https://tinywall.pados.hu/) (A lightweight, user-friendly, and secure firewall for Windows)
+  - ( **ALT** ) **_FREEMIUM_** [Comodo Firewall](https://personalfirewall.comodo.com/)
 
-- **_FREE/PAID UPGRADE_** [Bitdefender Antivirus Free](https://www.bitdefender.com/solutions/free.html) (Antivirus)
+- **_FREEMIUM_** [Bitdefender Antivirus Free](https://www.bitdefender.com/solutions/free.html) (Antivirus)
 
   - ( **ALT** ) **_FREEMIUM_** [Avira](https://www.avira.com/) (Antivirus)
 
-- **_FREE/PAID UPGRADE_** [Malwarebytes](https://www.malwarebytes.com/) (Malware Protection)
+  - ( **ALT** ) **_FREEMIUM_** [Malwarebytes](https://www.malwarebytes.com/) (Malware Protection)
 
 - **_FREEMIUM_** [NextDNS](https://nextdns.io/) (A DNS Service with added privacy and security features.)
 
@@ -28,9 +29,9 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
   - ExpressVPN, NordVPN, or Surfshark can work just as well
 
-- **_FREE/PAID UPGRADE_** [PatchMyPC](https://patchmypc.com/) (Automated Application Management for Microsoft Endpoint Manager)
+- **_FREEMIUM_** [PatchMyPC](https://patchmypc.com/) (Automated Application Management for Microsoft Endpoint Manager)
 
-- **_FREE/PAID UPGRADE_** [Bitwarden](https://bitwarden.com/download/) (Password Manager)
+- **_FREEMIUM_** [Bitwarden](https://bitwarden.com/download/) (Password Manager)
 
 ---
 
@@ -40,9 +41,11 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 ---
 
-- **_FREE_** [Firefox](https://www.mozilla.org/en-US/firefox/new/) (a free and open-source web browser)
+- **_FREE_** [Firefox](https://www.mozilla.org/en-US/firefox/new/) (A free and open-source web browser)
 
-  - ( **ALT** ) **_FREE_** [Edge Browser](https://www.microsoft.com/en-us/edge) (My Favorite Chromium Browser)
+  - ( **ALT** ) **_FREE_** [LibreWolf](https://librewolf-community.gitlab.io/) (A fork of Firefox, focused on privacy, security and freedom.)
+
+- ( **ALT** ) **_FREE_** [Edge Browser](https://www.microsoft.com/en-us/edge) (My Favorite Chromium Browser | A Microsoft web browser made to replace the older Internet Explorer with faster speeds and more features.)
 
 ---
 
@@ -52,7 +55,7 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 - **_FREE_** [Thunderbird](https://www.thunderbird.net/en-US/) (a free email application that’s easy to set up and customize.)
 
-- **_FREE/PAID UPGRADE_** [eM Client](https://www.emclient.com/?lang=en) (A better, but more expensive option)
+- **_FREEMIUM_** [eM Client](https://www.emclient.com/?lang=en) (A better, but more expensive option)
 
 ---
 
@@ -94,6 +97,8 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 - **_FREE_** [LibreOffice](https://www.libreoffice.org/) (Free Microsoft Office Alt.)
 
+  - ( **ALT** ) **_FREEMIUM_** [ONLYOFFICE](https://www.onlyoffice.com/) (a free software office suite developed by Ascensio System)
+
 - **_FREE_** [Sizer](http://www.brianapps.net/sizer4/) (Windows Resizer)
 
 ---
@@ -132,7 +137,7 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
   - Java 8
   - Java 11
-  - Java 14 / 15
+  - Java 14 / 15 / 16 / 17
 
 ---
 
@@ -160,19 +165,26 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
 ## Art and Design Programs
 
-- **_FREE_** [Inkscape](https://inkscape.org/) (Free Illustrator Alt.)
+- **_FREE_** [Inkscape](https://inkscape.org/) (A free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics| Free Illustrator Alt.)
 
-- **_FREE_** [GIMP](https://www.gimp.org/) (Free PhotoShop Alt.) (GNU Image Manipulation Program)
+- **_FREE_** [GIMP](https://www.gimp.org/) (GNU Image Manipulation Program | Free Photoshop Alt.)
 
-- **_FREE_** [Scribus](https://www.scribus.net/downloads/) (Free Indesign Alt.)
+- **_FREE_** [Scribus](https://www.scribus.net/downloads/) (A free and open-source desktop publishing software | Free Indesign Alt.)
 
-- **_FREE_** [RawTherapee](https://rawtherapee.com/) (Free Lightroom Alt.)
+- **_FREE_** [darktable](https://www.darktable.org/install/) (Open-source photography workflow application and raw developer | Free Lightroom Alt.)
 
-  - ( **ALT** ) **_PAID_** [Luminar](https://skylum.com/luminar) (Lightroom Alt.)
+  - ( **ALT** ) **_FREE_** [RawTherapee](https://rawtherapee.com/) (A free, cross-platform raw image processing program | Free Lightroom Alt.)
 
-- **_PAID_** [Affinity](https://affinity.serif.com/en-us/) (Adobe Suite Alternative)
+  - ( **ALT** ) **_PAID_** [Luminar](https://skylum.com/luminar) (A universal photo editing software application | Lightroom Alt.)
 
-- **_FREE/PAID UPGRADE_** [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (A color correction and non-linear video editing application)
+- **_PAID_** [Affinity Products](https://affinity.serif.com/en-us/) (Adobe Suite Alternative)
+  - Affinity Designer: Vector graphic design software for macOS, Windows and iPad
+  - Affinity Photo: Digital image editing software for macOS, Windows and iPad
+  - Affinity Publisher: Desktop publishing software for macOS and Windows
+
+- **_FREE_** [OpenShot](https://www.openshot.org/) (A free and open-source video editor | Premiere Alt.)
+
+- ( **ALT** ) **_FREEMIUM_** [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (A color correction and non-linear video editing application | Premiere Alt.)
 
 - **_FREE_** [Blender](https://www.blender.org/) (A free and open source 3D creation suite. )
 
@@ -216,7 +228,7 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 
   - **_FREEMIUM_** [Google Meet](https://meet.google.com/)
 
-  - (**ALT**) **_FREE/PAID UPGRADE_** Zoom (Meeting Software | Not trust worthy in my eyes)
+  - (**ALT**) **_FREEMIUM_**  [Zoom](zoom.us) (Meeting Software | Not trust worthy in my eyes)
 
 - **_FREE_** [Discord](https://discord.com/) (an instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.)
 
@@ -255,6 +267,8 @@ Some Programs for Security. (I personally use TinyWall with Windows Defender, bu
 - [Online Privacy: How to Get Off the Radar With Ease](https://maxdesalle.com/privacy-how-to-get-off-the-radar-with-ease/)
 
 - [Chiefs-Big-List-of-Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/blob/master/README.md)
+
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) (TL;DR If you are here just looking to make your headphones sound better, find your headphone model in results folder's recommended headphones list and follow instructions in Usage section.)
 
 ---
 
